@@ -22,4 +22,4 @@ app.use('/', routes);
 
 app.listen(PORT, function() {
     console.log("App listeningon PORT " + PORT);
-})
+});
