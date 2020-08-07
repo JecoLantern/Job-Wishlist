@@ -1,0 +1,24 @@
+{
+  "name": "job-wishlist",
+  "version": "1.0.0",
+  "description": "job wishlist coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JecoLantern/Job-Wishlist.git"
+  },
+  "author": "JBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JecoLantern/Job-Wishlist/issues"
+  },
+  "homepage": "https://github.com/JecoLantern/Job-Wishlist#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
